@@ -3,8 +3,8 @@ A running list of simple ways to be better at using your browser.
 
 ## Tips
 * **Listen to any article or blog post**
-  * On iOS, go to Settings >  Accessibility > Spoken Content and turn on Speak Selection & Speak Screen. Now you can highlight any text to be read aloud or simply swipe down with two fingers to hear everything on a given screen. Unsure what the equivalent is for Android but I'd imagine they have one.
-  * Google also recently released a new feature for their app on iOS, [the Google app](https://apps.apple.com/us/app/google/id284815942), which lets you do the same thing. It also allows you create a queue of content: https://twitter.com/Google/status/1306269254203867136?s=20.
+  * On iOS, go to Settings >  Accessibility > Spoken Content and turn on Speak Selection & Speak Screen. Now you can highlight any text to be read aloud or simply swipe down with two fingers to hear everything on a given screen.
+  * Google also recently released a new feature for their app on iOS, [the Google app](https://apps.apple.com/us/app/google/id284815942), which lets you do the same thing. It also allows you to create a queue of content: https://twitter.com/Google/status/1306269254203867136?s=20.
 
 * **Bypass Medium paywalls**
   * Go [here](https://github.com/manojVivek/medium-unlimited) and follow the instructions to download a browser extension that lets you read unlimited Medium articles, for free.
