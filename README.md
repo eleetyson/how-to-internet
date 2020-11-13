@@ -1,5 +1,5 @@
 ## What is this?
-A running list of simple ways to be better at using your browser.
+A running list of simple ways to be better at using your browser -- on web and mobile.
 
 ## Tips
 * **Listen to any article or blog post**
